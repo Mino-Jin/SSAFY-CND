@@ -24,7 +24,7 @@ SSAFY 청년단
 별명 : 개, 사장님, 학동포식자, 훈피치
 
 ---
-![apeach](./apeach.jpg)
+![apeach](./_images/apeach.jpg)
 ---
 12월 31일에 하고 싶은 것
 
@@ -38,7 +38,7 @@ SSAFY 청년단
 별명 : 주정뱅이, 수륙챙이, 기리보이(얼굴큰), 돌려까기
 
 ---
-![sr](./sr.png)
+![sr](./_images/sr.png)
 ---
 12월 31일에 하고 싶은 것
 
@@ -52,7 +52,7 @@ SSAFY 청년단
 별명 : 스머프, 허난설헌
 
 ---
-![tube](./tube.png)
+![tube](./_images/tube.png)
 ---
 12월 31일에 하고 싶은 것
 
@@ -66,7 +66,7 @@ SSAFY 청년단
 별명 : 시우민, 설민석, 무지, 일곡동배성우
 
 ---
-![muzi](./muzi.png)
+![muzi](./_images/muzi.png)
 ---
 12월 31일에 하고 싶은 것
 
